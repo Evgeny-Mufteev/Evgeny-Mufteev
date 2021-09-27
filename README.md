@@ -15,7 +15,7 @@
 
 Если вы рассматриваете сотрудника на вырост или ищите супер мотивированного джуна, то я Ваш кандидат) В сентябре планирую проходить продвинутый курс web разработки (Расширенный курс по JS,React, React Redux, Node.js, MySQL, MongoDBz, Ajax) 252 часа с получением диплома в ННГУ. (Он вечерний и по выходным)
 
-languages and tools:
+### languages and tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-e84646??style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-0b4db0??style=for-the-badge&logo=css3&logoColor=fff)
@@ -25,4 +25,7 @@ languages and tools:
 ![Javascript](https://img.shields.io/badge/-Javascript-e5bf35??style=for-the-badge&logo=Javascript&logoColor=fff)
 ![Gulp](https://img.shields.io/badge/-Gulp-e53535??style=for-the-badge&logo=Gulp&logoColor=fff)
 
-Follow Me
+### Follow Me
+
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-3f6cb0??style=for-the-badge&logo=vk&logoColor=fff)](https://vk.com/mufteevbro)
+[![Telegram](https://img.shields.io/badge/-Telegram-ffffff??style=for-the-badge&logo=Telegram&logoColor=fff)](https://t.me/Noname_iso)
