@@ -1,4 +1,4 @@
-![Header](https://github.com/Evgeny-Mufteev/Evgeny-Mufteev/blob/main/assets/11111.png)
+![Header](https://github.com/Evgeny-Mufteev/Evgeny-Mufteev/blob/main/assets/crab.gif)
 
 - HTML, CSS (flexbox, основы grid) Препроцессоры (SASS, SCSS)
 - Адаптивная, кроссбраузерная, валидная верстка
