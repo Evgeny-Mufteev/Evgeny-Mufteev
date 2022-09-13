@@ -1,6 +1,6 @@
 ![Header](https://github.com/Evgeny-Mufteev/Evgeny-Mufteev/blob/main/assets/crab.gif)
 
-- HTML, CSS (flexbox, базовый grid) Препроцессоры (SASS, SCSS)
+- HTML, CSS (flexbox, grid) Препроцессоры (SASS, SCSS)
 - Адаптивная, кроссбраузерная, валидная верстка (W3C)
 - БЭМ
 - Bootstrap (в основном колоночная сетка)
